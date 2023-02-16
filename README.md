@@ -28,3 +28,4 @@ A Simple Kotlin-based Android news app that used the MVVM architecture was creat
 - Room
 - Viewmodel
 - LiveData
+- Glide
