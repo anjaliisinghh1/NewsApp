@@ -27,4 +27,4 @@ A Simple Kotlin-based Android news app that used the MVVM architecture was creat
 - Infinite Scroll
 - Room
 - Viewmodel
-- Live Data
+- LiveData
